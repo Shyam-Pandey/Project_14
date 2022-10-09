@@ -11,7 +11,7 @@
 ## Live Link
 [Link](https://regal-gelato-974298.netlify.app)
 
-## Author and Contact
+## Author
 - [Shyam Pandey](https://github.com/Shyam-Pandey)
 
 ## Features
